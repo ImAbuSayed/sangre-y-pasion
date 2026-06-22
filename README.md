@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sangre-y-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sangre y pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sangre-y-pasion/) |
+| **Get License** | [Commercial Licensing for Sangre y pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sangre-y-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman cruzando el salón
+> La noche me pide perder la razón
+> Dejemos que el bajo nos dicte el compás
+> Acércate chica, no mires atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
